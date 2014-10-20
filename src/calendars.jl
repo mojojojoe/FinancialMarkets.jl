@@ -44,3 +44,5 @@ include("calendars/calendars_us.jl")
 include("calendars/calendars_euta.jl")
 include("calendars/calendars_jp.jl")
 include("calendars/calendars_nz.jl")
+include("calendars/calendars_za.jl")
+
