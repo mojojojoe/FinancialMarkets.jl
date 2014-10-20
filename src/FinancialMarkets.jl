@@ -29,6 +29,8 @@ export
     JPFCalendar, JPTOFCalendar,
     # calendars_nz.jl
     NZFCalendar, NZAUFCalendar, NZWEFCalendar,
+    # calendars_za.jl
+    ZAFCalendar, ZARFCalendar,
     # business_day_conventions.jl
     BusinessDayConvention, Unadjusted, Preceding, ModifiedPreceding,
     Following, ModifiedFollowing, Succeeding, adjust,
